@@ -1,6 +1,6 @@
 package guru.qa;
 
-public class operators {
+public class Operators {
     public static void main(String[] args) {
 
         //TODO
